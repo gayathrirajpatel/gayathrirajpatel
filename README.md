@@ -1,8 +1,8 @@
 
-👋 Hi, I’m Gayathri Raj
-👀 I am interested in roles that leverage my expertise in full-stack development, specializing in Node.js and software engineering, while allowing me to explore my passion for AI and ML.
-🌱  I am dedicated individual who thrives on hands-on projects and enjoy pushing my limits to tackle new challenges.
-Visit http://gayathrirajpatel.github.io/portfolio to learn more about me.
+. 👋 Hi, I’m Gayathri Raj
+. 👀 I am interested in roles that leverage my expertise in full-stack development, specializing in Node.js and software engineering, while allowing me to explore my passion for AI and ML.
+. 🌱  I am dedicated individual who thrives on hands-on projects and enjoy pushing my limits to tackle new challenges.
+. Visit http://gayathrirajpatel.github.io/portfolio to learn more about me.
 
 
 <!--
